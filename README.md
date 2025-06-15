@@ -1,1 +1,1 @@
-# kaggle_make_data_count
+# Kaggle Competition: Make Data Count
